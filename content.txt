@@ -1,0 +1,11 @@
+CONTENT
+
+
+UX Design:
+  Design Systems
+  Sketching/Wireframing -> High fidelity prototypes (Adobe XD/Figma)
+
+HTML
+CSS/Tailwind CSS/Sass
+JS (ECMAScript 6)
+Accessibility
