@@ -1,1 +1,22 @@
 # Contents
+
+UX Design:
+  Design Systems
+  Sketching/Wireframing -> High fidelity prototypes (Adobe XD/Figma)
+
+HTML
+CSS/Tailwind CSS/Sass
+JS (ECMAScript 6)
+Accessibility
+
+React:
+  React
+  Babel/Webpack
+  TypeScript & React
+  React Redux
+  Next.js & RESTful APIs
+  GraphQL
+  Styled
+
+TDD:
+  Jest/React Testing Library
